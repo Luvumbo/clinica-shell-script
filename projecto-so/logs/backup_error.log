@@ -1,0 +1,44 @@
+cp: impossível obter informação para '/home/francisco/Documentos/projecto-so/base de dados/*': Ficheiro ou pasta inexistente
+cp: impossível obter informação para '/logs/*': Ficheiro ou pasta inexistente
+[2024-07-09 17:32:55] [error] Erro ao copiar os arquivos.
+cp: impossível obter informação para '/logs/*': Ficheiro ou pasta inexistente
+[2024-07-09 17:33:34] [error] Erro ao copiar os arquivos.
+[sudo] senha para francisco: 
+Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+sudo: unable to read password: Erro de entrada/saída
+sudo: 1 tentativa incorrecta
+[sudo] senha para francisco: 
+sudo: no password was provided
+[2024-07-12 12:59:36] [error] Erro ao copiar os arquivos.
+[sudo] senha para francisco: 
+Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+sudo: unable to read password: Erro de entrada/saída
+sudo: 2 tentativas incorrectas
+[sudo] senha para francisco: 
+sudo: no password was provided
+[2024-07-12 13:01:04] [error] Erro ao copiar os arquivos.
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+[2024-07-12 13:01:25] [error] Erro ao copiar os arquivos.
+[sudo] senha para francisco: Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+sudo: no password was provided
+sudo: 1 tentativa incorrecta
+[sudo] senha para francisco: Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+sudo: no password was provided
+sudo: 1 tentativa incorrecta
+[2024-07-12 13:11:06] [error] Erro ao copiar os arquivos.
+[sudo] senha para francisco: 
+Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+Enganou-se, tente de novo.
+[sudo] senha para francisco: 
+sudo: 3 tentativas incorrectas
+[sudo] senha para francisco: 
+sudo: unable to read password: Erro de entrada/saída
+[2024-07-12 19:00:53] [error] Erro ao copiar os arquivos.
